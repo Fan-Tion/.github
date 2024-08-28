@@ -11,7 +11,7 @@ Fan-Tion은 팬덤 커뮤니티와 굿즈 거래를 한 곳에서 해결할 수 
 
 ## 🏗 아키텍처 다이어그램
 
-![Architecture Diagram](image/아키.PNG)
+![Architecture Diagram](/image/아키.PNG)
 
 ## 📊 ERD (Entity-Relationship Diagram)
 
