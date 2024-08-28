@@ -15,7 +15,7 @@ Fan-Tion은 팬덤 커뮤니티와 굿즈 거래를 한 곳에서 해결할 수 
 
 ## 📊 ERD (Entity-Relationship Diagram)
 
-![ERD Diagram](public/img/ERD.png)
+![ERD Diagram](/image/Fan-Tion.png)
 
 ## 🛠 기술 스택
 
